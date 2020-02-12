@@ -1,0 +1,109 @@
+body{
+
+}
+#blocco-totale {
+  width: 400px;
+  margin: 0 auto;
+}
+#sfondo {
+  background-image: url(../img/legno.jpg);
+
+}
+#image-emme {
+  /*width: 120px;
+  height: 100px;
+  padding: 10px;
+  display: block;
+  margin-left: -8px;
+  margin-bottom: 20px;*/
+  height: 100px;
+}
+
+header {
+
+  width: 300px;
+  height: 100px;
+  margin-bottom: 20px;
+
+}
+h1{
+  display: inline;
+  vertical-align: top;
+  color: white;
+}
+
+#ricerca {
+
+  width: 400px;
+
+  border-bottom: 2px solid white;
+  padding-bottom: 10px;
+}
+#search{
+  width: 150px;
+  display: inline-block;
+}
+#vai{
+  width:30px;
+}
+form {
+  display: inline;
+}
+#notifica {
+  color: white;
+  font-size: 40px;
+  margin-top: 10px;
+  display:inline-block;
+}
+#notificadue{
+  color: white;
+  font-size: 40px;
+  margin-top: 10px;
+  display:inline;
+
+}
+#trenta {
+  background-color: orange;
+  display: inline-block;
+  width: 45px;
+  height: 45px;
+  margin-top: 8px;
+  margin-left: 5px;
+  border-radius: 50%;
+  text-align: -webkit-center;
+  font-size: 30px;
+  padding:10px;
+}
+
+.email {
+  background-color: #b3b3b3;
+  width: 400px;
+  height: 30px;
+  border: 1px solid black;
+
+}
+#email {
+  background-color: #e6e0e0;
+  width: 400px;
+  height: 30px;
+  border: 1px solid black;
+}
+
+main{
+
+  width: 300px;
+  height: 128px;
+  border-bottom: 10px;
+
+}
+#check {
+
+}
+
+footer {
+
+  height: 100px;
+  
+  width: 400px;
+
+}
